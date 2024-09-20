@@ -1,0 +1,7 @@
+# This is the base file for Coordination Application
+world config: ./assets/world/world.yaml
+# world config: ./world/raven_world.yaml
+color config: ./assets/color/colors.yaml
+input devices config: ./assets/input_devices/input_devices.yaml
+multibody configs:
+  - "./assets/robots/NeuroRobot/neuro_robot.yaml" #0
