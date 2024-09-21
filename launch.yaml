@@ -5,3 +5,4 @@ color config: ./assets/color/colors.yaml
 input devices config: ./assets/input_devices/input_devices.yaml
 multibody configs:
   - "./assets/robots/NeuroRobot/neuro_robot.yaml" #0
+  - "./assets/robots/DaVinciSi/da_vinci_si.yaml" #1

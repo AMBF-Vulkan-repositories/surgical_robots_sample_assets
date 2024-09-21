@@ -1,0 +1,283 @@
+# Blender MTL File: 'Surgical_Robotic_System_da_Vinci_SI.blend'
+# Material Count: 24
+
+newmtl Alluminium_Base
+Ns 203.318997
+Ka 1.000000 1.000000 1.000000
+Kd 0.003900 0.003900 0.003900
+Ks 0.375600 0.375600 0.375600
+Ke 0.000000 0.000000 0.000000
+Ni 20.000000
+d 1.000000
+illum 3
+map_Bump Alluminium_Base_Bump.png
+map_Kd Alluminium_Base_Ref.png
+
+newmtl Alluminium_Hydro
+Ns 596.884504
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.175867 0.175867 0.175867
+Ke 0.000000 0.000000 0.000000
+Ni 20.000000
+d 1.000000
+illum 2
+map_Kd Pyston_Dif.png
+
+newmtl Base
+Ns 190.413224
+Ka 1.000000 1.000000 1.000000
+Kd 0.003900 0.003900 0.003900
+Ks 0.375600 0.375600 0.375600
+Ke 0.000000 0.000000 0.000000
+Ni 20.000000
+d 1.000000
+illum 2
+map_Bump Alluminium_Base_Bump.png
+map_Kd Base_Dif.png
+map_Ks Base_Ref.png
+
+newmtl Base_Box
+Ns 62.955371
+Ka 1.000000 1.000000 1.000000
+Kd 0.003900 0.003900 0.003900
+Ks 0.375600 0.375600 0.375600
+Ke 0.000000 0.000000 0.000000
+Ni 20.000000
+d 1.000000
+illum 2
+map_Bump Alluminium_Base_Bump.png
+map_Kd Base_Box_Dif.png
+map_Ks Base_Box_Ref.png
+
+newmtl Bed
+Ns 550.294226
+Ka 1.000000 1.000000 1.000000
+Kd 0.003900 0.003900 0.003900
+Ks 0.375600 0.375600 0.375600
+Ke 0.000000 0.000000 0.000000
+Ni 20.000000
+d 1.000000
+illum 2
+map_Bump Alluminium_Base_Bump.png
+map_Kd Bed_Dif.png
+map_Ks Bed_Ref.png
+
+newmtl Fabric
+Ns 35.714335
+Ka 1.000000 1.000000 1.000000
+Kd 0.003900 0.003900 0.003900
+Ks 0.008800 0.008800 0.008800
+Ke 0.000000 0.000000 0.000000
+Ni 1.600000
+d 1.000000
+illum 2
+map_Bump Fabric_Bump_2.png
+
+newmtl Leather
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.003900 0.003900 0.003900
+Ks 0.030000 0.030000 0.030000
+Ke 0.000000 0.000000 0.000000
+Ni 1.600000
+d 1.000000
+illum 2
+map_Bump Leather_Bump.png
+map_Ks Leather_Ref.png
+
+newmtl Metal_2
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.003900 0.003900 0.003900
+Ks 0.214700 0.214700 0.214700
+Ke 0.000000 0.000000 0.000000
+Ni 1.600000
+d 1.000000
+illum 2
+map_Ks Metal_Ref.png
+
+newmtl Plastic_Black
+Ns 59.523764
+Ka 1.000000 1.000000 1.000000
+Kd 0.003900 0.003900 0.003900
+Ks 0.030000 0.030000 0.030000
+Ke 0.000000 0.000000 0.000000
+Ni 1.600000
+d 1.000000
+illum 2
+map_Ks Leather_Ref.png
+
+newmtl Plastic_Blue
+Ns 63.492121
+Ka 1.000000 1.000000 1.000000
+Kd 0.419600 0.486300 0.580400
+Ks 0.341200 0.341200 0.341200
+Ke 0.000000 0.000000 0.000000
+Ni 1.600000
+d 1.000000
+illum 2
+
+newmtl Stainlees_Steel
+Ns 65.079331
+Ka 1.000000 1.000000 1.000000
+Kd 0.019600 0.019600 0.019600
+Ks 0.783000 0.783000 0.783000
+Ke 0.000000 0.000000 0.000000
+Ni 1.600000
+d 1.000000
+illum 2
+
+newmtl Steel_Yellow
+Ns 59.523764
+Ka 1.000000 1.000000 1.000000
+Kd 0.019600 0.019600 0.019600
+Ks 0.705900 0.705900 0.705900
+Ke 0.000000 0.000000 0.000000
+Ni 1.600000
+d 1.000000
+illum 2
+
+newmtl Wheel
+Ns 63.492121
+Ka 1.000000 1.000000 1.000000
+Kd 0.564700 0.651000 0.780400
+Ks 0.341200 0.341200 0.341200
+Ke 0.000000 0.000000 0.000000
+Ni 1.600000
+d 1.000000
+illum 2
+map_Bump Wheel_Bump.png
+map_Kd Wheel_Dif.png
+
+newmtl cap
+Ns 48.611100
+Ka 1.000000 1.000000 1.000000
+Kd 0.019600 0.019600 0.019600
+Ks 0.611800 0.611800 0.611800
+Ke 0.000000 0.000000 0.000000
+Ni 1.600000
+d 1.000000
+illum 2
+
+newmtl control_hand
+Ns 20.833341
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.600000
+d 1.000000
+illum 1
+map_Kd control_hand_diffuse.png
+map_Ks control_hand_reflect.png
+
+newmtl lift
+Ns 20.833341
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.600000
+d 1.000000
+illum 1
+map_Bump lift_bump.png
+map_Kd lift_diffuse.png
+map_Ks lift_reflect.png
+
+newmtl manipulator1
+Ns 20.833341
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.600000
+d 1.000000
+illum 1
+map_Kd manipulator1_diffuse.png
+map_Ks manipulator_reflect.png
+
+newmtl manipulator2
+Ns 20.833341
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.600000
+d 1.000000
+illum 1
+map_Kd manipulator2_diffuse.png
+map_Ks manipulator_reflect.png
+
+newmtl manipulator3
+Ns 20.833341
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.600000
+d 1.000000
+illum 1
+map_Kd manipulator3_diffuse.png
+map_Ks manipulator_reflect.png
+
+newmtl manipulator4
+Ns 20.833341
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.600000
+d 1.000000
+illum 1
+map_Kd manipulator4_diffuse.png
+map_Ks manipulator_reflect.png
+
+newmtl mount
+Ns 20.833341
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.600000
+d 1.000000
+illum 1
+map_Kd mount_diffuse.png
+map_Ks mount_reflect.png
+
+newmtl rear_panel
+Ns 20.833341
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.600000
+d 1.000000
+illum 1
+map_Bump rear_control_bump.png
+map_Kd rear_control_diffuse.png
+map_Ks rear_control_reflect.png
+
+newmtl shoulder
+Ns 20.833341
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.600000
+d 1.000000
+illum 1
+map_Kd shoulder_diffuse.png
+map_Ks shoulder_reflect.png
+
+newmtl spider
+Ns 20.833341
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.600000
+d 1.000000
+illum 1
+map_Kd spider_diffuse.png
+map_Ks spider_reflect.png
